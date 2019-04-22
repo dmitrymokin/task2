@@ -1,0 +1,1 @@
+java -jar task2.jar stats-dates.txt stats-offices.txt ops1.txt ops2.txt ops3.txt
